@@ -18,7 +18,6 @@ Currently working as a full stack developer at Jobsity with the following langua
 🧰 Toolbox
 
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
